@@ -1,6 +1,3 @@
-Here's a simplified version of your `README.md`:
-
----
 
 # LinkScrapeX
 
